@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new yeres gyfte wherein is taught the knowledge of our selfe and the feare of God. Worthy to be geuen and thankefullye receyued of al Christen men. Imprynted at London bi Robert Crowley dwellinge in Elie rentes in Holburn. The yere of oure Lord. M.D.xlix. the laste daye of December. Autore eodem Roberto Croleo cum priuilegio ad imprimendum solum.</title>
+            <author>Crowley, Robert, 1518?-1588.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1549</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19662</idno>
+            <idno type="STC">STC 6087</idno>
+            <idno type="STC">ESTC S105165</idno>
+            <idno type="EEBO-CITATION">99840895</idno>
+            <idno type="PROQUEST">99840895</idno>
+            <idno type="VID">5438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 133:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new yeres gyfte wherein is taught the knowledge of our selfe and the feare of God. Worthy to be geuen and thankefullye receyued of al Christen men. Imprynted at London bi Robert Crowley dwellinge in Elie rentes in Holburn. The yere of oure Lord. M.D.xlix. the laste daye of December. Autore eodem Roberto Croleo cum priuilegio ad imprimendum solum.</title>
+                  <author>Crowley, Robert, 1518?-1588.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Grafton for Robert Crowley,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1549]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Actual printer's name from STC.</note>
+                  <note>Signatures: [A].</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5438:1"/>
+            <pb facs="tcp:5438:1"/>
+            <p>¶ A new yeres gyfte, wherein is taught the knowledge of our ſelfe and the feare of God. Worthy to be geuen and thanke<g ref="char:EOLhyphen"/>fullye receyued of al Chriſten men.</p>
+            <p>Imprynted at London bi Robert Crowley dwellinge in The rentes in Holb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn. The yere of our Lord. M. D. xlix. the laſte daye of December</p>
+            <p>☞ Autore eodem Roberto Croleo</p>
+            <p>¶ Cum prunlegio ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</p>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <pb facs="tcp:5438:2"/>
+            <head>¶ To the Chri<g ref="char:EOLunhyphen"/>ſtian Reader.</head>
+            <l>
+               <seg rend="decorInit">H</seg>Aue here (gentle reader) a thinge verie ſmall</l>
+            <l>In vtter aparaunce (as thou maieſt wel ſee)</l>
+            <l>And yet in effecte it conteineth all</l>
+            <l>That Chriſt in his Goſpel requi<g ref="char:EOLhyphen"/>reth of the,</l>
+            <l>Wherfore as a miroure or glaſſe let it bee,</l>
+            <l>Wherin thou maiſt ſe thine owne Image plaine,</l>
+            <l>And haue therby cauſe thy luſte to reſtraine.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:5438:2"/>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>S bread to the hungry is better then golde</l>
+               <l>And Drincke in oute drought, a treaſure moſt hie:</l>
+               <l>And as the fyre pleaſeth the man that is colde</l>
+               <l>So doeth honeſt knowledge ſuch as be wittie.<note place="margin">Prouerb. ix.</note>
+               </l>
+               <l>For ſuche men do fele them ſelues eaſed therby.</l>
+               <l>And as the ma<g ref="char:cmbAbbrStroke">̄</g> that doeth a greate treaſure finde</l>
+               <l>So are they delyted therwyth in theyr minde.</l>
+               <l>¶ Intending therfore to geue to the wyſe.</l>
+               <l>A preſent of pleaſure at this new<g ref="char:EOLhyphen"/>yets tyde</l>
+               <l>A more pleaſant thinge. I coulde not deuiſe</l>
+               <l>Emonge all the treaſure of thys world ſo wyde</l>
+               <l>To ſuche men as be not pufte (vp with pride)</l>
+               <l>
+                  <pb facs="tcp:5438:3"/>
+Then for to teach them with wor<g ref="char:EOLhyphen"/>des moſt plaine</l>
+               <l>By what meanes they mighte all theyr vices refraine</l>
+               <l>¶ Firſt ſe that ye learne your ſelfe for to knowe</l>
+               <l>From whenſe ye are come,<note place="margin">Rom. xiiii.</note> and whi<g ref="char:EOLunhyphen"/>ther you ſhall</l>
+               <l>And that God wyll iudge as well hyghe as lowe</l>
+               <l>When he ſhalbe ſet on hys tribu<g ref="char:EOLhyphen"/>nall.</l>
+               <l>Not fearynge the greate, nor ſpa<g ref="char:EOLhyphen"/>rynge the ſmall</l>
+               <l>But geueyng to all men of euerye degre</l>
+               <l>Accordynglye as theyre doynge ſhall be.<note place="margin">ii Cor. v.</note>
+               </l>
+               <l>☞ For who ſo that knoweth him ſelf thorowly</l>
+               <l>Shall neuer be haute nor loftie of mynde</l>
+               <l>But ſhalbe in herte euermore low lye</l>
+               <l>
+                  <pb facs="tcp:5438:3"/>
+Confeſſynge the fautes that are in mankynde.</l>
+               <l>The loue of him ſelfe ſhal him ne<g ref="char:EOLhyphen"/>uer blynde.<note place="margin">Eſai. lxiiii</note>
+               </l>
+               <l>He ſhall knowe him ſelfe to be but vyle duſte</l>
+               <l>Whych knowledge ſhal cauſe him to brydle his luſt.</l>
+               <l>¶ If he be a kynge, a Lorde or a knighte</l>
+               <l>And haue of his contrey the cheife gouernaunce</l>
+               <l>He ſhall euer haue him ſelfe in hys ſyght</l>
+               <l>When flattering fortune ſhal him aduaunce.</l>
+               <l>Hys rentes and hys fees he ſhall not er. haunce</l>
+               <l>For he ſhall alwayes haue mynde of his ende</l>
+               <l>And ſtudie the innocente for to de<g ref="char:EOLhyphen"/>fende.<note place="margin">Eccle. vii.</note>
+               </l>
+               <l>☞ For why he ne knoweth howe ſoone he ſhall go</l>
+               <l>
+                  <pb facs="tcp:5438:4"/>
+To duſte whe<g ref="char:cmbAbbrStroke">̄</g>ſe he came as nature doth bynde</l>
+               <l>And certen he is to haue endeles wooe</l>
+               <l>If happlye he frame not his herte and his minde</l>
+               <l>Wyth all his endeuoure to ſearch and to fynde</l>
+               <l>The waye that ſhall lede him into endles bliſſe</l>
+               <l>Whiche all men haue loſte bi that one dyd amiſſe</l>
+               <l>☞ He knoweth not the tyme,<note place="margin">Rome. v.</note> the maner nor place</l>
+               <l>Of hys goynge henſe, it is ſo vn<g ref="char:EOLhyphen"/>certayne</l>
+               <l>Wherefore he will call to God for hys grace</l>
+               <l>To gouerne the Fancies of hys fleſhlye, brayne</l>
+               <l>That after thys lyfe he maye lyue and reigne</l>
+               <l>Wyth the kyng of al kinges, who geueth the ſame</l>
+               <l>
+                  <pb facs="tcp:5438:4"/>
+To all that do aſke it in Chriſte (his ſonnes) name.<note place="margin">Iohn. xiiii.</note>
+               </l>
+               <l>☞ In fine, al eſtates what ſo euer they be</l>
+               <l>That do know them ſelfe,<note place="margin">Eccleſ. vil.</note> &amp; thinke on their ende</l>
+               <l>Wyll ſeke to walke ryght in their owne degre</l>
+               <l>And all their enormities for to e<g ref="char:EOLhyphen"/>mende.</l>
+               <l>And that whiche they ſeke for, god wyll them ſende.</l>
+               <l>For he of his promiſe is certen and ſure</l>
+               <l>And wil be as longe as this world ſhall endure.<note place="margin">Math. vii.</note>
+               </l>
+               <l>☞ I areade you therefore thys knoweledge to gette</l>
+               <l>With al maner haſte and expedite ſpede</l>
+               <l>Remoueynge al thinges that may do you lette</l>
+               <l>Leſte haplye ye lacke it in tyme of youre nede</l>
+               <l>
+                  <pb facs="tcp:5438:5"/>
+And compt your ſelfe corne when you be but vyle wede</l>
+               <l>Or elſe to be braunches of Chriſte the true vine</l>
+               <l>When your fruite is apt to make no good wyne.</l>
+               <l>☞ Fyrſt know y<hi rend="sup">t</hi> the matter wher<g ref="char:EOLhyphen"/>of ye do growe</l>
+               <l>Is more vile in ſight then the dirt of the ſtrete.<note place="margin">Gene. <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>And when ye be growne vp ye do not knowe howe</l>
+               <l>Then do ye begynne awaye for to flete</l>
+               <l>Euen as doeth the floud after ple<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tie of wete<note place="margin">Iob. xiiii.</note>
+               </l>
+               <l>And when ye be furniſhed beſte to enoure</l>
+               <l>Then of youre abydynge you are moſt vnſure</l>
+               <l>Youre noriſhyng vp in youre ten<g ref="char:EOLhyphen"/>der age</l>
+               <l>Is very paynful, and ryght dain<g ref="char:EOLhyphen"/>gerous</l>
+               <l>
+                  <pb facs="tcp:5438:5"/>
+And whe<g ref="char:cmbAbbrStroke">̄</g> ye be ſtronge, then ginne you to rage</l>
+               <l>And to folow maners voluptuous</l>
+               <l>Not one emonge twentie is found deſyrous</l>
+               <l>To furniſh him ſelfe with maners vprighte</l>
+               <l>And to be founde honeſte in euery manes ſighte</l>
+               <l>¶ Yea where haue we one that doeth him apply</l>
+               <l>To any good thinge by hys owne accorde?<note place="margin">Pſal. xiiii.</note>
+               </l>
+               <l>Wythoute chaſtiſmente we do no<g ref="char:EOLhyphen"/>thinge pardie</l>
+               <l>Tyll we be out of the reache of the rodde</l>
+               <l>Except ſpeciall grace be geuen vs of god</l>
+               <l>To brydle our luſte and our fleſh<g ref="char:EOLhyphen"/>ly wyll</l>
+               <l>Whiche can of it felfe do nothyng but yll</l>
+               <l>
+                  <pb facs="tcp:5438:6"/>
+☞ And when we be come to oure owne gouernaunce</l>
+               <l>Then either we endeuoure ryghte ſhortli to clime</l>
+               <l>Or elſe do we geue vp our ſelfe to paſtaunce</l>
+               <l>And in Idlenes conſume all oure tyme</l>
+               <l>As thoughe Idlenes were not a foule cryine.<note place="margin">Math xxiiii. Luke. xii.</note>
+               </l>
+               <l>And for to miſpend that god hath vs ſente</l>
+               <l>Dyd not at godes hande, deſerue puniſhmente</l>
+               <l>☞ Nowe when we wax olde and drawe to oure ende.</l>
+               <l>Then entereth Auarice into oure herte</l>
+               <l>And cauſeth that when we ought chiefli to emende</l>
+               <l>We are geuen wholi to the contra<g ref="char:EOLunhyphen"/>tie parte</l>
+               <l>No promyſe nor threatnynge can vs conuerte</l>
+               <l>
+                  <pb facs="tcp:5438:6"/>
+Vnles the lorde god do drawe vs bi his grace</l>
+               <l>Forgeueinge oure ſinnes and our wicked treſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe.</l>
+               <l>☞ Thus ſee yee howe vile, howe k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke and how wilde</l>
+               <l>Howe wyckedly bente, and howe abominable</l>
+               <l>How hard to emende, and eke how detyl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+               <l>Ye are, and in all poyntes how mi<g ref="char:EOLunhyphen"/>ſerable,</l>
+               <l>Howe in your deſyres vnſatiable</l>
+               <l>And how of your ſelfe ye be worſt in the ende</l>
+               <l>When reaſone woulde rather that ye ſhoulde emende</l>
+               <l>¶ Conſyder therfore your ſelfe in this glaſſe</l>
+               <l>And let not youre Image go oute of your ſyghte</l>
+               <l>And then I ne doubte it will come well to paſſe</l>
+               <l>
+                  <pb facs="tcp:5438:7"/>
+That you ſhal endeuour to walke ſtyll vprighte</l>
+               <l>And in the Lordes law to ſet your delighte<note place="margin">Pſal. xviii.</note>
+               </l>
+               <l>So that by hys grace ye ſhall ne<g ref="char:EOLhyphen"/>uer blinne</l>
+               <l>To call for his mercie and repent youre ſynne</l>
+               <l>¶ Thys done, you muſte learne that god is your iudge</l>
+               <l>Who iudgeth all men wythouten reſpecte.<note place="margin">Iob. xxxiiii.</note>
+               </l>
+               <l>He is not a frayde of youre armes hudge</l>
+               <l>Nor of the ſtronge fortes that you do erecte.</l>
+               <l>He is euer able ſuche thinges too deiecte.</l>
+               <l>And wil whe<g ref="char:cmbAbbrStroke">̄</g> he luſteth beat doune to the ground</l>
+               <l>All ſuche mightye thinges,<note place="margin">Gen. iiii.</note> wherſo they be founde</l>
+               <l>He feared not Caine that kylled Abell</l>
+               <l>
+                  <pb facs="tcp:5438:7"/>
+No more dyd he ſpare poore La<g ref="char:EOLhyphen"/>mech the blynde</l>
+               <l>Stoute Nemroth alſo that buyl<g ref="char:EOLhyphen"/>ded Babel,<note place="margin">Gene. x.</note>
+               </l>
+               <l>In parte of his plages was no<g ref="char:EOLhyphen"/>thyng behynde:<note place="margin">Gene. xix.</note>
+               </l>
+               <l>The fylthie Sodomes dyd ſmall fauoure fynde</l>
+               <l>Ryght ſo dyd in Egipte the kyng Pharao,<note place="margin">Exo. xv.</note>
+               </l>
+               <l>And Nabuchodonozer with other moe.<note place="margin">Dani. iiii.</note>
+               </l>
+               <l>☞ What ſhulde I rehearſe howe in wildernes<note place="margin">Nume. xi. Exod. xxxii.</note>
+               </l>
+               <l>He plaged his people that oft did repine</l>
+               <l>And how afterward for vnthank<g ref="char:EOLhyphen"/>fulneſſe</l>
+               <l>They planted the vines &amp; dranke not the wyne</l>
+               <l>Suche is the power of the God<g ref="char:EOLhyphen"/>head diuine</l>
+               <l>Wherefore I aduiſe you for to re<g ref="char:EOLunhyphen"/>pente.</l>
+               <l>
+                  <pb facs="tcp:5438:8"/>
+Before he do come to ſyt in iudge<g ref="char:EOLhyphen"/>mente.</l>
+               <l>¶ For when he is ſet, he will iudg you righte</l>
+               <l>It is the<g ref="char:cmbAbbrStroke">̄</g> to late for mercy to craue</l>
+               <l>And in no place can you be out of his ſighte</l>
+               <l>For he ſeeth the corners of euerye caue</l>
+               <l>To him lyeth open bothe hell and the graue.<note place="margin">Pſal. xxxxix.</note>
+               </l>
+               <l>Wherefore while you mai do ther vpon thyncke</l>
+               <l>And let the lordes feare into your hertes ſyncke.</l>
+               <l>☞ Embrace the lordes fear: for therof doth ſpringe</l>
+               <l>The rote of all wiſedome,<note place="margin">Pſalm, xxi.</note> as Da<g ref="char:EOLhyphen"/>uid doeth ſay</l>
+               <l>And if ye lacke that then know ye nothinge</l>
+               <l>Belongynge vnto the heauenlye waye.</l>
+               <l>
+                  <pb facs="tcp:5438:8"/>
+For vpon goddes feare all know<g ref="char:EOLhyphen"/>ledge muſt ſtay</l>
+               <l>Elſe muſte it nedes be reproued as vayne</l>
+               <l>Becauſe it procedeth of manes I<g ref="char:EOLhyphen"/>dle braine.</l>
+               <l>¶ But knowledg y<hi rend="sup">t</hi> doeth ſpryng oute of the Lordes feare</l>
+               <l>Is euermore conſtante, certen and ſure</l>
+               <l>And cauſeth eche man hys croſſe for to beare</l>
+               <l>And in all hys trouble for to en<g ref="char:EOLhyphen"/>dure</l>
+               <l>It cauſeth a man to haue litle ple<g ref="char:EOLhyphen"/>ſure,</l>
+               <l>In anye thynge that doeth vpon the earth lye</l>
+               <l>And to ſeke his conforte in heauen on hie.</l>
+               <l>☞ Goddes feare teacheth as to ſeke for his will</l>
+               <l>And eke for to frame oure lyfe to the ſame</l>
+               <l>
+                  <pb facs="tcp:5438:9"/>
+Ryght ſo doeth it teache vs to do no man yll</l>
+               <l>In hurtinge his perſon or ſtaine<g ref="char:EOLhyphen"/>ynge his fame</l>
+               <l>It teacheth vs to lead a life with<g ref="char:EOLhyphen"/>oute blame.</l>
+               <l>And to do our beſt to profit al me<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>With al the giftes that God hath to vs geuen.</l>
+               <l>☞ Thus knowyng my ſelfe, and fearinge the Lorde</l>
+               <l>I wyſhe to all men a luckie newe yere,</l>
+               <l>And grace for to ſeeke after peace and concorde</l>
+               <l>That the loue of Chriſte maye in them apeare</l>
+               <l>And that banketting in ſpirituall there</l>
+               <l>They maye all theyr faultes eſpye d<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>em ende</l>
+               <l>Before the twelue monethes bee come to an ende.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:5438:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
